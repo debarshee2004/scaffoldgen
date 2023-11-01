@@ -1,3 +1,4 @@
+![Logo](./assets/logo.jpg)
 
 # APERTRE - OPEN SOURCE : WEB DEVELOPMENT
 
@@ -49,3 +50,5 @@ Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the expe
 This project is open source and available under the [MIT License](./LICENSE). By participating in this project, you agree to abide by its terms.
 
 We're excited to have you join the APERTRE - OPEN SOURCE community. If you have any questions or need assistance, feel free to open an issue or reach out to our maintainers. Happy coding!
+
+![org](./assets/organizers.jpg)
