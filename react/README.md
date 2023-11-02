@@ -6,6 +6,9 @@
 
 Welcome to the React JS Beginner's Guide! This project is designed to help you get started with React, one of the most popular JavaScript libraries for building user interfaces. Whether you're a novice developer or looking to learn React, this guide will provide you with the fundamental knowledge and hands-on experience you need.
 
+This is a Tutorial Project by [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
+
+
 ## Table of Contents
 
 - [About React](#about-react)
