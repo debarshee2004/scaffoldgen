@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # Code of Conduct for APERTRE - OPEN SOURCE : WEB DEVELOPMENT
 
 ## Our Pledge

@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # Contributing to APERTRE - OPEN SOURCE : WEB DEVELOPMENT
 
 Thank you for your interest in contributing to APERTRE - OPEN SOURCE! We welcome contributions from developers of all levels, whether you're new to open source or an experienced contributor. Your contributions help us build a vibrant and inclusive web development community.

@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # APERTRE - OPEN SOURCE : WEB DEVELOPMENT Changelog
 
 All notable changes to the "APERTRE - OPEN SOURCE : WEB DEVELOPMENT" repository will be documented in this file.

@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # Security Policy
 
 ## Reporting a Vulnerability

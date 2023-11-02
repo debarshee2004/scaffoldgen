@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # APERTRE - OPEN SOURCE : WEB DEVELOPMENT Credits
 
 The "APERTRE - OPEN SOURCE : WEB DEVELOPMENT" project is made possible by the hard work and contributions of many individuals and organizations. We would like to extend our heartfelt thanks to everyone who has dedicated their time and effort to this project.

@@ -1,8 +1,8 @@
-![Logo](./assets/logo.jpg)
+![Logo](./assets/logo.jpeg)
 
 # APERTRE - OPEN SOURCE : WEB DEVELOPMENT
 
-Welcome to **APERTRE** - OPEN SOURCE, a community-driven open source repository focused on web development. **Apertre** is a 14 day long open source event organised by Resourcio Community and GDSC AOT. This event will offer participants the chance to improve their skills in various development areas. Participants will collaborate and work on real world projects, receive mentorships and guidance from experienced developers.
+Welcome to **APERTRE** - OPEN SOURCE, a community-driven open source repository focused on web development. **APERTRE** is a 14 day long open source event organised by Resourcio Community and GDSC AOT. This event will offer participants the chance to improve their skills in various development areas. Participants will collaborate and work on real world projects, receive mentorships and guidance from experienced developers.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -50,5 +50,3 @@ Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the expe
 This project is open source and available under the [MIT License](./LICENSE). By participating in this project, you agree to abide by its terms.
 
 We're excited to have you join the APERTRE - OPEN SOURCE community. If you have any questions or need assistance, feel free to open an issue or reach out to our maintainers. Happy coding!
-
-![org](./assets/organizers.jpg)

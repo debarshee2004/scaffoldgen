@@ -1,3 +1,5 @@
+![logo](./assets/logo.jpg)
+
 # APERTRE - OPEN SOURCE : WEB DEVELOPMENT Roadmap
 
 ## What is Open Source?
