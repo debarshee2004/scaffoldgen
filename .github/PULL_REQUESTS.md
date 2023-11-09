@@ -6,13 +6,13 @@ This document provides a history of both open and closed pull requests for the A
 
 ## Open Pull Requests
 
-### Pull Request Title 1
+<!-- ### Pull Request Title 1 -->
 <!-- - Commit ID: [Commit ID](https://github.com/debarshee2004/apertre_opensource/commit/commit-id)
 - Description: [Brief description of the pull request]
 - Author: [Author's GitHub Username](https://github.com/author-username)
 - Status: Open -->
 
-### Pull Request Title 2
+<!-- ### Pull Request Title 2 -->
 <!-- - Commit ID: [Commit ID](https://github.com/debarshee2004/apertre_opensource/commit/commit-id)
 - Description: [Brief description of the pull request]
 - Author: [Author's GitHub Username](https://github.com/author-username)
@@ -20,27 +20,18 @@ This document provides a history of both open and closed pull requests for the A
 
 ## Closed Pull Requests
 
-### Pull Request Title 3
+<!-- ### Pull Request Title 3 -->
 <!-- - Commit ID: [Commit ID](https://github.com/debarshee2004/apertre_opensource/commit/commit-id)
 - Description: [Brief description of the pull request]
 - Author: [Author's GitHub Username](https://github.com/author-username)
 - Status: Closed -->
 
-### Pull Request Title 4
+<!-- ### Pull Request Title 4 -->
 <!-- - Commit ID: [Commit ID](https://github.com/debarshee2004/apertre_opensource/commit/commit-id)
 - Description: [Brief description of the pull request]
 - Author: [Author's GitHub Username](https://github.com/author-username)
 - Status: Closed -->
 
-## How to Contribute
-
-To contribute to our open source projects, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make your changes and commit your code.
-4. Push your branch to your forked repository.
-5. Create a pull request from your branch to the main repository.
 
 We appreciate your contributions and look forward to your involvement in our open source web development community!
 
