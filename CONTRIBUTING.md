@@ -46,6 +46,10 @@ Before you start contributing, please follow these steps:
 
 For more detailed information on contributing, please review our [full contribution guidelines](./CONTRIBUTING.md).
 
+## Submissions
+
+Submit your own project about ***Web Development*** under the [project](./projects/) section. While submitting remember to Follow the [Template](./projects/TEMPLATE.md) of README.md provided.
+
 ## Code of Conduct
 
 Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the expected behavior within our community. We are committed to providing a welcoming and harassment-free environment for all contributors.

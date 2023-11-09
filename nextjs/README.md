@@ -6,6 +6,7 @@
 
 Welcome to the Beginner's Guide to Next.js! This project aims to help you get started with Next.js, a powerful React framework for building modern web applications. Whether you're new to web development or an experienced developer looking to explore Next.js, you're in the right place.
 
+This is a simple [Car Showcase Project](https://github.com/adrianhajdin/project_next13_car_showcase) using Nextjs 13, Typescript and Tailwind. 
 This is a Tutorial Project by [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
 
 ## Table of Contents
@@ -13,9 +14,10 @@ This is a Tutorial Project by [Adrian Hajdin - JS Mastery](https://github.com/ad
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
+<!-- - [Project Structure](#project-structure) -->
 
 ## Introduction
 
@@ -60,7 +62,7 @@ To get started with this project and learn about Next.js, follow these steps:
 - Data fetching with getStaticProps and getServerSideProps
 - Error handling
 
-## Project Structure
+<!-- ## Project Structure
 
 The project is organized into several sections:
 
@@ -68,7 +70,7 @@ The project is organized into several sections:
 - `/components`: Reusable React components.
 - `/styles`: Global styles and styled-components.
 - `/public`: Static assets like images.
-- `/api`: Serverless functions for API routes.
+- `/api`: Serverless functions for API routes. -->
 
 ## Contributing
 
@@ -82,3 +84,67 @@ This project is open source and available under the [MIT License](LICENSE). By p
 
 We're excited to have you join our Beginner's Guide to Next.js project. If you have any questions, feel free to open an issue or reach out to the maintainers. Happy learning and coding!
 
+<!-- ```
+nextjs
+│   .gitignore
+│   next.config.js
+│   package-lock.json
+│   package.json
+│   postcss.config.js
+│   README.md
+│   tailwind.config.js
+│   tsconfig.json
+│
+├───app
+│       favicon.ico
+│       globals.css
+│       layout.tsx
+│       page.tsx
+│
+├───components
+│       CarCard.tsx
+│       CarDetails.tsx
+│       CustomButton.tsx
+│       CustomFilter.tsx
+│       Footer.tsx
+│       Hero.tsx
+│       index.ts
+│       Navbar.tsx
+│       Searchbar.tsx
+│       SearchManufacturer.tsx
+│       ShowMore.tsx
+│
+├───constants
+│       index.ts
+│
+├───public
+│       arrow-down.svg
+│       car-logo.svg
+│       chevron-up-down.svg
+│       close.svg
+│       discord.svg
+│       facebook.svg
+│       gas.svg
+│       github.svg
+│       heart-filled.svg
+│       heart-outline.svg
+│       hero-bg.png
+│       hero.png
+│       linkedin.svg
+│       logo.svg
+│       magnifying-glass.svg
+│       model-icon.png
+│       next.svg
+│       pattern.png
+│       right-arrow.svg
+│       steering-wheel.svg
+│       tire.svg
+│       twitter.svg
+│       vercel.svg
+│
+├───types
+│       index.ts
+│
+└───utils
+        index.ts
+``` -->

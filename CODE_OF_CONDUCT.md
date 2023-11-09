@@ -10,19 +10,19 @@ We are committed to providing a friendly, safe, and inclusive environment for al
 
 To ensure a welcoming and harassment-free community, we ask that all participants adhere to the following standards:
 
-### Inclusive Language
+### 01 Inclusive Language
 
 Use inclusive language that is respectful and considerate of all individuals, regardless of their gender, race, ethnicity, sexual orientation, age, religion, or background.
 
-### Respectful Behavior
+### 02 Respectful Behavior
 
 Treat all contributors with respect, both online and offline. Disagreements may occur, but constructive, polite communication is essential. Harassment, offensive comments, and personal attacks are not tolerated.
 
-### Collaboration
+### 03 Collaboration
 
 Strive to collaborate and work together in a spirit of cooperation and mutual support. We value the contributions of every member of our community.
 
-### Focus on the Project
+### 04 Focus on the Project
 
 Keep discussions and interactions focused on the project's goals and technical aspects. Avoid unrelated topics, politics, and personal matters.
 
