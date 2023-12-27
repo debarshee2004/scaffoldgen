@@ -25,24 +25,22 @@ Before you start contributing, please follow these steps:
 2. **Clone Your Fork**: Open your forked repository on your local machine using Git.
 
    ```bash
-   git clone https://github.com/YourUsername/apertre_opensource.git
+   git clone https://github.com/debarshee2004/opensource_guide.git
    ```
 
-3. **Set Up Your Environment**: Follow the instructions in the [ROADMAP.md](./ROADMAP.md) file to set up your development environment.
+3. **Branch Strategy**: Create a new branch for your contribution. Please choose a descriptive name that reflects the purpose of your change.
 
-4. **Branch Strategy**: Create a new branch for your contribution. Please choose a descriptive name that reflects the purpose of your change.
+4. **Make Your Changes**: Write your code or documentation changes.
 
-5. **Make Your Changes**: Write your code or documentation changes.
+5. **Testing**: Ensure that your changes pass any relevant tests, and write new tests if necessary.
 
-6. **Testing**: Ensure that your changes pass any relevant tests, and write new tests if necessary.
+6. **Commit Your Changes**: Commit your changes with a clear and concise message. Use imperative language (e.g., "Fix typo" instead of "Fixed typo").
 
-7. **Commit Your Changes**: Commit your changes with a clear and concise message. Use imperative language (e.g., "Fix typo" instead of "Fixed typo").
+7. **Push Your Changes**: Push your changes to your forked repository.
 
-8. **Push Your Changes**: Push your changes to your forked repository.
+8. **Create a Pull Request**: Submit a pull request from your fork to the main repository.
 
-9. **Create a Pull Request**: Submit a pull request from your fork to the main repository.
-
-10. **Review and Discussion**: Participate in the discussion around your pull request, address any feedback, and collaborate with project maintainers to get your changes merged.
+9. **Review and Discussion**: Participate in the discussion around your pull request, address any feedback, and collaborate with project maintainers to get your changes merged.
 
 For more detailed information on contributing, please review our [full contribution guidelines](./CONTRIBUTING.md).
 

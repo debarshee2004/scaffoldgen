@@ -13,7 +13,7 @@ Before you start contributing to our projects, ensure you have a suitable develo
 2. **Clone Your Fork**: Clone your forked repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/YourUsername/apertre_opensource.git
+   git clone https://github.com/debarshee2004/opensource_guide.git
    ```
 
 3. **Install Dependencies**: Install any project-specific dependencies. Refer to the project's documentation or README for details.
@@ -65,7 +65,3 @@ Please review and follow our [Code of Conduct](https://github.com/debarshee2004/
 All contributions to the APERTRE - OPEN SOURCE : WEB DEVELOPMENT repository are subject to the terms of the [MIT License](https://github.com/debarshee2004/apertre_opensource/blob/main/LICENSE).
 
 Thank you for your contributions and for being a part of our open source web development community!
-
----
-
-This development guide provides an overview of the development process for APERTRE - OPEN SOURCE : WEB DEVELOPMENT. Make sure to refer to project-specific documentation for details related to individual projects.

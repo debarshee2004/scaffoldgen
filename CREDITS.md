@@ -26,7 +26,3 @@ We would like to express our appreciation to the following individuals for their
 If you're interested in contributing to APERTRE - OPEN SOURCE : WEB DEVELOPMENT, please check our [CONTRIBUTING.md](./CONTRIBUTING.md) file for details on how to get involved.
 
 Thank you to all of our contributors for making this project a success!
-
----
-
-Please update this CREDITS.md file regularly to include all current and past contributors. Be sure to provide links to their GitHub profiles or websites to give proper credit to their work and dedication. This file also serves as a way to express gratitude to individuals and organizations that have supported your project.

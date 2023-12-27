@@ -18,8 +18,6 @@ If you're new to open source and web development, start here:
 
 2. **Understand Open Source**: Explore the principles of open source, the benefits of contributing, and how collaborative development works.
 
-3. **Set Up Your Development Environment**: Follow the instructions in the [/docs/GettingStarted.md](./docs/GETTING_STARTED.md) to set up your local development environment.
-
 ## Contributing to APERTRE - OPEN SOURCE : WEB DEVELOPMENT
 
 Here's how you can contribute to our open source web development community:
@@ -36,12 +34,7 @@ Here's how you can contribute to our open source web development community:
 
 ## Projects
 
-Explore our list of open source web development projects:
-
-- [Project 1](#) - [Social Media App using ReactJS](./react/)
-- [Project 2](#) - [Car Showcase Project using NextJS](./nextjs/)
-
-Each project may vary in complexity and technology stack, making it suitable for a wide range of contributors.
+Explore our list of open source web development projects. Each project may vary in complexity and technology stack, making it suitable for a wide range of contributors.
 
 You can create you own project and then submit it under the [projects](./projects/) directory, to understand how to do it read the [Contributing.md](./CONTRIBUTING.md) file.
 
@@ -57,7 +50,3 @@ For experienced contributors and professionals, consider taking on a role that g
 APERTRE - OPEN SOURCE : WEB DEVELOPMENT is an open source community where we learn, collaborate, and innovate together. We look forward to your contributions and building a vibrant web development ecosystem. Whether you're a beginner or a seasoned professional, your involvement makes a difference.
 
 Let's create great web development projects together!
-
----
-
-Feel free to customize this ROADMAP.md file to include specific details about your open-source project's objectives, goals, and plans for the future. Make sure to keep it up to date as your project evolves.
