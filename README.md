@@ -31,7 +31,7 @@ If you're new to APERTRE - OPEN SOURCE or open source development in general, he
 
 3. **Set Up Your Environment**: Follow the instructions in the [ROADMAP.md](./ROADMAP.md) file to set up your development environment.
 
-4. **Start Contributing**: Look for issues labeled as "good first issue" if you're new to open source or pick a task you're interested in. Create a branch, make your changes, and submit a pull request.
+4. **Start Contributing**: Create a project under the [project directory](./projects/) and contribute to that project or other project. Look for issues labeled as "good first issue" if you're new to open source or pick a task you're interested in. Create a branch, make your changes, and submit a pull request.
 
 If you're a professional developer or an experienced open source contributor, we encourage you to check the [CONTRIBUTING.md](./CONTRIBUTING.md) guide for detailed instructions on the contribution process.
 
