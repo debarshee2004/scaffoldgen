@@ -30,7 +30,7 @@ Before you start contributing, please follow these steps:
 
 3. **Branch Strategy**: Create a new branch for your contribution. Please choose a descriptive name that reflects the purpose of your change.
 
-4. **Make Your Changes**: Write your code or documentation changes.
+4. **Make Your Changes**: Write your code under the [project](./projects/) section or documentation changes.
 
 5. **Testing**: Ensure that your changes pass any relevant tests, and write new tests if necessary.
 
@@ -42,7 +42,7 @@ Before you start contributing, please follow these steps:
 
 9. **Review and Discussion**: Participate in the discussion around your pull request, address any feedback, and collaborate with project maintainers to get your changes merged.
 
-For more detailed information on contributing, please review our [full contribution guidelines](./CONTRIBUTING.md).
+For more detailed information on contributing, please review our [full contribution guidelines](https://github.com/readme/guides/first-oss-contribution).
 
 ## Submissions
 
