@@ -52,7 +52,7 @@ For eg : If you are using VS Code click on Go live for index.html page
 
 1. **Fork the Repository**: Click the "Fork" button on the top right of this repository to create your copy on GitHub.
 
-2. **Make Your Contribution**: Create a branch, make your changes, and ensure your code adheres to coding standards (if specified).
+2. **Make Your Contribution**: Clone the repo on your local machine and Create a branch, make your changes.
 
 3. **Create a Pull Request**: Submit your changes by creating a pull request. Make sure to follow the [pull request template](../../docs/PULL_REQUEST_TEMPLATE.md).
 
