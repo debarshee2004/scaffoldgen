@@ -1,4 +1,4 @@
-# Project Template - [apu52_Scientific Calculator]
+# Project Template - [apu52_Hotstar Clone]
 
 ## Table of Contents
 
