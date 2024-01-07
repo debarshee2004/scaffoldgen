@@ -21,7 +21,7 @@ ChatGPT represents a breakthrough in natural language processing. It's a languag
 
 At the core of ChatGPT is OpenAI, an organization committed to advancing AI in a safe and beneficial manner. OpenAI's decision to release ChatGPT as an open-source project reflects its dedication to fostering collaboration within the AI community. This transparency encourages innovation and exploration. OpenAI is all about democratizing AI – making it accessible to coders of all stripes. Whether you're a coding prodigy or just dipping your toes into the AI waters, ChatGPT is your ticket to a world of possibilities.
 
-![OpenAI](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png)
+![OpenAI](https://seeklogo.com/images/O/openai-logo-46653AD466-seeklogo.com.png)
 
 ## Why is it so Important?
 
