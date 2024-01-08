@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    width: 900px;
+    height: 200px;
+    background-image: linear-gradient(to right, blue, green);
+    margin: auto;
+}
+
+body{
+    background-color: #706d6d;
+}
+
+
+
+.container .card h2{
+    font-family: 'Agdasima', sans-serif;
+    text-align: center;
+    color: #9dd1ed;
+}
