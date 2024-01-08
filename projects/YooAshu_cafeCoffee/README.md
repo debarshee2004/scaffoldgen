@@ -1,4 +1,4 @@
-# Project Template - [apu52_Hotstar Clone]
+# Project Template - [YooAshu Cafe Coffee Clone]
 
 ## Table of Contents
 
@@ -15,9 +15,9 @@
 ## Overview
 
 - **Username**: YooAshu
-- **Project ID**: Cafe Coffee Clone
+- **Project ID**: Cafe Coffee Day Clone
 
-Here is Cafe Coffee Clone.👨🏻‍💻 I have made it using HTML,CSS & JS. It contains a static page with the basic features we often see in the cafe coffee Page. 
+Here is Cafe Coffee Day's website Clone.👨🏻‍💻 I have made it using HTML,CSS & JS. It contains a static page with the basic features we often see in the cafe coffee day Page. 
 ## Technologies Used
 
 - HTML
@@ -38,12 +38,12 @@ Here is Cafe Coffee Clone.👨🏻‍💻 I have made it using HTML,CSS & JS. It
 
  - **Step 1:-**   Clone the Repo by going to your local Git Client in a particular local folder in your local machine by using this command with your forked repository link in place of below given link: <br/>
     ```bash
-    git clone https://github.com/YooAshu/Cafe-Coffee-Clone
+    git clone https://github.com/YooAshu/Cafe_Coffee_Clone
     ```
 
  - **Step 2:-**  Go inside  Directory.
     ```bash 
-    cd Cafe-Coffee-Clone
+    cd Cafe_Coffee_Clone
     ```
 
 - **Step 3:-**  Install packages dependencies, run following command in terminal / CMD
@@ -94,7 +94,9 @@ there are 3 directories
 
 ## Screenshots or Demo
 
- 
+ ![Screenshot (75)](https://github.com/YooAshu/opensource_guide/assets/95643200/f4f8cc5f-f492-4499-b3ed-632609d60b9e)
+![Screenshot (74)](https://github.com/YooAshu/opensource_guide/assets/95643200/85cc8570-2b2d-4a82-a4d9-4c3f25693159)
+
 
 ## Contributing
 
