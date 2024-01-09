@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LEVEL 2 TASK 1</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-image: linear-gradient(rgb(146, 146, 146), rgb(151, 26, 209), rgb(172, 169, 22));
+    }
+
+    .cal {
+      position: relative;
+      height: auto;
+      width: auto;
+      padding: 25px;
+      border-radius: 50px;
+    }
+
+    .cntnr {
+      display: grid;
+      height: 100vh;
+      width: 100vw;
+      place-items: center;
+    }
+
+
+    #display {
+      margin: 10px;
+      height: 140px;
+      width: auto;
+      max-width: 290px;
+      display: flex;
+      overflow-x: scroll;
+      align-items: flex-end;
+      justify-content: flex-end;
+      font-size: 45px;
+      margin-bottom: 20px;
+      color: #fff;
+    }
+
+    #display::-webkit-scrollbar {
+      display: block;
+      height: 3px;
+    }
+
+    button {
+      height: 65px;
+      width: 65px;
+      border: 0;
+      border-radius: 35px;
+      margin: 6px;
+      font-size: 25px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+    }
+
+    .cal.dark {
+      background-image: linear-gradient(#c72c2c, rgb(46, 163, 163), rgb(181, 37, 247));
+      box-shadow: 2px 2px 25px rgb(255, 181, 44);
+    }
+
+    .btn {
+      background-color: #000000c9;
+      color: #ffd518;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="cntnr ">
+    <div class="cal dark">
+      <div id="display"></div>
+      <div class="btns">
+        <table>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><button class="btn" id="bsp"><i class="material-icons">backspace</i>
+              </button>
+            </td>
+          </tr>
+          <tr>
+            <td><button class="btn" id="7">7</button></td>
+            <td><button class="btn" id="8">8</button></td>
+            <td><button class="btn" id="9">9</button></td>
+            <td><button class="btn" id="-">-</button></td>
+          </tr>
+          <tr>
+            <td><button class="btn" id="4">4</button></td>
+            <td><button class="btn" id="5">5</button></td>
+            <td><button class="btn" id="6">6</button></td>
+            <td><button class="btn" id="+">+</button></td>
+          </tr>
+          <tr>
+            <td><button class="btn" id="1">1</button></td>
+            <td><button class="btn" id="2">2</button></td>
+            <td><button class="btn" id="3">3</button></td>
+            <td><button class="btn" id="/">/</button></td>
+          </tr>
+          <tr>
+            <td><button class="btn" id="eql">=</button></td>
+            <td><button class="btn" id="0">0</button></td>
+            <td><button class="btn" id="clr">C</button></td>
+            <td><button class="btn" id="*">x</button></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+    const display = document.querySelector("#display");
+    const btns = document.querySelectorAll("button");
+
+    let i;
+    btns.forEach((item) => {
+      item.onclick = () => {
+        if (item.id == "clr")
+          display.innerText = "";
+
+        else if (item.id == "bsp") {
+          let string = display.innerText.toString();
+          display.innerText = string.substr(0, string.length - 1);
+        }
+        else if (item.id == "eql") {
+          display.innerText += "=" + eval(display.innerText);
+          i = 1;
+        }
+        else {
+          if (i == 1) {
+            display.innerText = "";
+          }
+          display.innerText += item.id;
+          i = 0;
+        }
+      };
+    });
+
+  </script>
+
+
+
+</body>
+
+</html>
