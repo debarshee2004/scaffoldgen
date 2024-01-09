@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Montserrat:wght@300;400;800&family=Noto+Sans+JP&family=Palette+Mosaic&family=Raleway:wght@200&family=Roboto:wght@500&family=Saira+Condensed:wght@100&family=Ysabeau+Office:wght@300&display=swap'); */
+.banner{
+    background-image: url(../banner2.jpg);
+}
+.bannerContent{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-top: 25px;
+}
+.tagline{
+    display: flex;
+    /* border: solid 1px white; */
+    height: 40%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
