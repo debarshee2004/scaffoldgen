@@ -1,6 +1,5 @@
-<div align="center"><img height="130" src="favicon.ico"/></div>
-
-<div align="center"><img height="130" src="Dribbble-Logo.png"/></div>
+<div align="center"><img height="130" src="https://github.com/Sneha123-zudo/opensource_guide/assets/145490348/a6751141-2840-4389-a357-aa37c15520fd"/></div>
+<div align="center"><img height="130" src="https://github.com/Sneha123-zudo/opensource_guide/assets/145490348/ef5eeb2c-564b-4b5c-bce9-7fdd1ec5571c"/></div>
 
 
 # <div align="center">Travel Blog Website</div>
@@ -21,8 +20,8 @@ Welcome to Dribble, your go-to travel blog website for exploring the world and s
 
 ## Technology Used🚀
 
-<img src="html.png" height="50">
-<img src="css.jpeg" height="50">
+<img src="https://github.com/Sneha123-zudo/opensource_guide/assets/145490348/7f36fb5a-0150-496a-8790-84c9d2030459" height="50">
+<img src="https://github.com/Sneha123-zudo/opensource_guide/assets/145490348/4aac4d35-5430-4c68-9914-529b2d8c8bb6" height="50">
 
 
  ## Overview⭐
