@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: auto;
+    background-image: linear-gradient(rgb(128, 33, 206), rgb(104, 38, 0));
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h3{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.cntnr{
+    max-width: 100%;
+    position: relative;
+    height: auto;
+    padding: 10px;
+    margin: 0;
+}
+.hding{
+    height: auto;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 26px;
+    font-size: 51px;
+}
+.hding2{
+    font-size: 20px;
+}
+.add-tsk-btn{
+    width: 50%;
+    display: flex;
+    padding: 65px 0;
+    margin: auto;
+    position: relative;
+    top: 46%;
+}
+.add-tsk-btn > input[type="text"]{
+    width: 90%;
+    color: white;
+    border: 2px solid #ffffff;
+    background: none;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
+    outline: none;
+    background-color: #3d0049af;
+
+}
+.add-tsk-btn button{
+    background: rgb(129, 29, 29);
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 30px;
+    width: 150px;
+    border-color: yellow;
+}
+.add-tsk-btn button:hover{
+    background: rgb(52, 0, 87);
+
+}
+.tskblk{
+    width: 100%;
+    height:auto;
+    padding: 3%;
+    position: relative;
+}
+.canc, .Completed{
+    margin: 5px 0;
+    padding: 20px;
+    display: flex;
+}
+ol{
+    list-style: none;
+    counter-reset: my-counter;
+    display: flex;
+    flex-wrap: wrap;
+}
+ol li{
+    display: flex;
+    width: 200px;
+    height:200px;
+    margin:30px;
+    padding: 18px;
+    font-size: 30px;
+    position: relative;
+    justify-content: center;
+    color: white;
+    counter-increment: my-counter;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    background: linear-gradient(rgb(134, 136, 0), rgb(82, 0, 82));
+    overflow: hidden;
+    align-items: center;
+    border:1px solid rgb(139, 0, 81);
+
+}
+ol.Completed li{
+    background: linear-gradient(rgb(22, 14, 129), rgb(82, 0, 82));
+    color: white;
+
+}
+ol li::before{
+    content: counter(my-counter);
+    line-height: 3rem;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 2px;
+    left: 10px;
+    font-size:2em;
+    color:rgb(216, 200, 200);
+}
+li button{
+    float: right;
+    padding: 5px;
+    font-size: 28px;
+    line-height: 28px;
+    margin-right: 15px;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.pndng-tsk, .fnsh-tsk{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.tickbtn{
+    position: absolute;
+    font-size: 30px;
+    bottom: 20px;
+    left: 10%;
+    color: white;
+}
+.deletebtn, .deletebtn2{
+    position: absolute;
+    bottom: 20px;
+    right: 10%;
+    color: white;
+}
+
+@media only screen and (max-width: 700px) {
+
+
+    .add-tsk-btn > input[type="text"] {
+        
+        padding: 1px;
+        font-size: 19px;
+        text-align: center;
+    }
+    .add-tsk-btn {
+        width: 100%;
+    }
+    .add-tsk-btn button {
+        font-size: 18px;
+        margin: 0;
+        margin-left: 10px;
+
+        padding: 9px;
+        
+    }
+    
+  }
