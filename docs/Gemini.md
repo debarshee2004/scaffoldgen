@@ -1,6 +1,6 @@
-# <div align="center">Blog About Gemini<div>
+# <div align="center">Blog About Gemini</div>
 
-<img src="Google-Gemini-.jpg">
+<div align="center"><img src="https://github.com/Sneha123-zudo/opensource_guide/assets/145490348/cc6b1335-134a-4653-a73e-4db7fd29922c"></div>
 
 ## What is Gemini?
 
