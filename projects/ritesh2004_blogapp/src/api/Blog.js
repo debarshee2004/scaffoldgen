@@ -3,7 +3,7 @@ import toast from "react-hot-toast"
 
 export const uploadBlog = async (title, description, imageURL) => {
     try {
-        const { data } = await axios.post("https://blog-api-6yz2.onrender.com/api/v1/blog/add", {
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/blog/add`, {
             title, description, imageURL
         }, {
             withCredentials: true
@@ -18,7 +18,7 @@ export const uploadBlog = async (title, description, imageURL) => {
 
 export const getallBlogs = async () => {
     try {
-        const { data } = await axios.get("https://blog-api-6yz2.onrender.com/api/v1/blogs/all");
+        const { data } = await axios.get(`${process.env.BACKEND_URI}/api/v1/blogs/all`);
         return data
     } catch (error) {
         alert("Something went wrong! Try again later")
@@ -27,7 +27,7 @@ export const getallBlogs = async () => {
 
 export const myBlogs = async () => {
     try {
-        const { data } = await axios.get("https://blog-api-6yz2.onrender.com/api/v1/blogs/my",{
+        const { data } = await axios.get(`${process.env.BACKEND_URI}/api/v1/blogs/my`,{
             withCredentials:true
         });
         return data;
@@ -38,7 +38,7 @@ export const myBlogs = async () => {
 
 export const getBlog = async (id) => {
     try {
-        const { data } = await axios.get(`https://blog-api-6yz2.onrender.com/api/v1/blog/${id}`,{
+        const { data } = await axios.get(`${process.env.BACKEND_URI}/api/v1/blog/${id}`,{
             withCredentials:true
         });
         return data;
@@ -49,7 +49,7 @@ export const getBlog = async (id) => {
 
 export const editBlog = async (id,title, description) => {
     try {
-        const { data } = await axios.post(`https://blog-api-6yz2.onrender.com/api/v1/blog/edit/${id}`,{
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/blog/edit/${id}`,{
             title,description
         },{
             withCredentials : true
@@ -63,7 +63,7 @@ export const editBlog = async (id,title, description) => {
 
 export const deleteBlog = async (id) => {
     try {
-        const { data } = await axios.get(`https://blog-api-6yz2.onrender.com/api/v1/blog/delete/${id}`,{
+        const { data } = await axios.get(`${process.env.BACKEND_URI}/api/v1/blog/delete/${id}`,{
             withCredentials : true
         })
 

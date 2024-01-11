@@ -3,7 +3,7 @@ import toast from "react-hot-toast"
 
 export const signUp = async (name, username, email, password, profileURL,bio) => {
     try {
-        const { data } = await axios.post('https://blog-api-6yz2.onrender.com/api/v1/user/add', {
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/user/add`, {
             name, username, email, password, profileURL,bio
         },{
             headers : {
@@ -20,7 +20,7 @@ export const signUp = async (name, username, email, password, profileURL,bio) =>
 
 export const logIn = async (email,password)  => {
     try {
-        const { data } = await axios.post('https://blog-api-6yz2.onrender.com/api/v1/user/login',{
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/user/login`,{
             email,
             password
         },{
@@ -40,7 +40,7 @@ export const logIn = async (email,password)  => {
 
 export const verifyUser = async () => {
     try {
-        const { data } = await axios.post('https://blog-api-6yz2.onrender.com/api/v1/user/verify',{},{
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/user/verify`,{},{
             withCredentials:true
         })
         console.log(data)
@@ -52,7 +52,7 @@ export const verifyUser = async () => {
 
 export const logOut = async () => {
     try {
-        const { data } = await axios.post('https://blog-api-6yz2.onrender.com/api/v1/user/logout',{},{
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/user/logout`,{},{
             withCredentials : true
         })
         console.log(data)
@@ -65,7 +65,7 @@ export const logOut = async () => {
 
 export const getUser = async (id) => {
     try {
-        const { data } = await axios.get(`https://blog-api-6yz2.onrender.com/api/v1/user/${id}`)
+        const { data } = await axios.get(`${process.env.BACKEND_URI}/api/v1/user/${id}`)
         return data
     } catch (error) {
         console.log(error)
@@ -74,7 +74,7 @@ export const getUser = async (id) => {
 
 export const updateBio = async (id,bio) => {
     try {
-        const { data } = await axios.post(`https://blog-api-6yz2.onrender.com/api/v1/user/update/${id}`,{
+        const { data } = await axios.post(`${process.env.BACKEND_URI}/api/v1/user/update/${id}`,{
             bio
         },{
             withCredentials : true
