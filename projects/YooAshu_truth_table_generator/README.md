@@ -95,7 +95,8 @@ there are 3 directories
 
  
 
-![Screenshot (50)](https://github.com/YooAshu/opensource_guide/assets/95643200/e93c9a46-6b83-43e1-80ca-bcd7f78fbd52)
+![Screenshot (50)](https://github.com/YooAshu/opensource_guide/assets/95643200/e4c21b0a-ea42-4e4c-80f7-43c935cf8d56)
+
 
 
 ## Contributing
