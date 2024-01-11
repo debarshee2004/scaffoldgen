@@ -1,4 +1,4 @@
-# Project Template - [YooAshu Truth Table Genertaor]
+# Project Template - [apu52_Food Website]
 
 ## Table of Contents
 
@@ -14,11 +14,11 @@
 
 ## Overview
 
-- **Username**: YooAshu
-- **Project ID**: Truth Table Generator
+- **Username**: apu52
+- **Project ID**: Food Website
 
-Here is a website that generate truth table for your logical expression.👨🏻‍💻 I have made it using HTML,CSS & JS. 
-## Technologies Used
+Here is my Food website of the resturent names Mr. Chef(ESTD. 2003)🍴 .
+This website is responsive & it has been made using HTML, CSS, JS. Here are some key features of the website.
 
 - HTML
 - CSS
@@ -26,23 +26,24 @@ Here is a website that generate truth table for your logical expression.👨🏻
 
 ## Features
 
-- truth table generator
-- good UI
-- take AND , OR , XOR , NOT
-
-
+- A menu card of different cuisines such as Biriyani , Chienese, Paneer Mania, Veg as well as South Indian.🍕 
+- A scroll or jump to section to different sections of menu card🥗
+- Every dish has it's own rating & prices🥘
+-  A very unique Add to cart system ( customers can also see the total billing there) 🍟
+-  Address Saving Option🦑🦐
+  
 ## Installation and Usage
 
 ##   Fork the repo to your Github.<br/>
 
  - **Step 1:-**   Clone the Repo by going to your local Git Client in a particular local folder in your local machine by using this command with your forked repository link in place of below given link: <br/>
     ```bash
-    git clone https://github.com/YooAshu/truth_table_generator
+    git clone https://github.com/apu52/FoodWebsite
     ```
 
  - **Step 2:-**  Go inside  Directory.
     ```bash 
-    cd truth_table_generator
+    cd FoodWebsite
     ```
 
 - **Step 3:-**  Install packages dependencies, run following command in terminal / CMD
@@ -65,19 +66,19 @@ Here is a website that generate truth table for your logical expression.👨🏻
     git branch <your branch name>
     ```
 -   Checkout to your branch.
-    ```bash
+    ```
     git checkout <your branch name>
     ```
 -   Add your code in your local machine folder.
-    ```bash
+    ```
     git add .
     ```
 -   Commit your changes.
-    ```bash
+    ```
     git commit -m"<add your message here>"
     ```
 -   Push your changes.
-    ```bash
+    ```
     git push --set-upstream origin <your branch name>
     ```
 -   Add your project name with the link in the readme in the desired format.
@@ -88,12 +89,14 @@ Here is a website that generate truth table for your logical expression.👨🏻
 there are 3 directories
 - index.html
 - index.js
-- styles.css
-- and some pngs
+- style.css
+- fooditem.js
+- Images
 
 ## Screenshots or Demo
 
- ![Screenshot (81)](https://github.com/YooAshu/opensource_guide/assets/95643200/c0957526-19d5-48fa-bed7-3f1ac143bb4e)
+![image](https://github.com/apu52/opensource_guide/assets/114172928/e77cf130-e49a-4c6c-b804-f2fe9ffccc91)
+
 
 
 

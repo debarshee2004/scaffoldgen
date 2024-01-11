@@ -1,4 +1,4 @@
-# Project Template - [YooAshu Truth Table Genertaor]
+# Project Template - [apu52_Temperature_Converter]
 
 ## Table of Contents
 
@@ -14,11 +14,12 @@
 
 ## Overview
 
-- **Username**: YooAshu
-- **Project ID**: Truth Table Generator
+- **Username**: apu52
+- **Project ID**: Temperature Converter
 
-Here is a website that generate truth table for your logical expression.👨🏻‍💻 I have made it using HTML,CSS & JS. 
-## Technologies Used
+Here is my Food website of Temperature Converter
+Here is the project of the front-end Web Developement.
+All of us use many websites or other platforms to check the conversion between Celcius-Fahrenheit-Kelvin-Rankie.
 
 - HTML
 - CSS
@@ -26,23 +27,22 @@ Here is a website that generate truth table for your logical expression.👨🏻
 
 ## Features
 
-- truth table generator
-- good UI
-- take AND , OR , XOR , NOT
+- This Coverter convets from celcius-fahrenheit-kelvin-Rankine & vice-versa
+- Also there is a input & result display distinctly
+- There is a clock attached with it
 
-
+  
 ## Installation and Usage
 
 ##   Fork the repo to your Github.<br/>
 
  - **Step 1:-**   Clone the Repo by going to your local Git Client in a particular local folder in your local machine by using this command with your forked repository link in place of below given link: <br/>
     ```bash
-    git clone https://github.com/YooAshu/truth_table_generator
-    ```
+    git clone https://github.com/apu52/TemperatureConverter
 
  - **Step 2:-**  Go inside  Directory.
     ```bash 
-    cd truth_table_generator
+    cd TemperatureConverter
     ```
 
 - **Step 3:-**  Install packages dependencies, run following command in terminal / CMD
@@ -65,19 +65,19 @@ Here is a website that generate truth table for your logical expression.👨🏻
     git branch <your branch name>
     ```
 -   Checkout to your branch.
-    ```bash
+    ```
     git checkout <your branch name>
     ```
 -   Add your code in your local machine folder.
-    ```bash
+    ```
     git add .
     ```
 -   Commit your changes.
-    ```bash
+    ```
     git commit -m"<add your message here>"
     ```
 -   Push your changes.
-    ```bash
+    ```
     git push --set-upstream origin <your branch name>
     ```
 -   Add your project name with the link in the readme in the desired format.
@@ -87,13 +87,15 @@ Here is a website that generate truth table for your logical expression.👨🏻
 
 there are 3 directories
 - index.html
-- index.js
-- styles.css
-- and some pngs
+- main.js
+- style.css
+- celsius-convert.jpg
 
 ## Screenshots or Demo
 
- ![Screenshot (81)](https://github.com/YooAshu/opensource_guide/assets/95643200/c0957526-19d5-48fa-bed7-3f1ac143bb4e)
+![image](https://github.com/apu52/opensource_guide/assets/114172928/b2fb7298-38a4-4e03-80e2-82939c0cceab)
+
+
 
 
 
