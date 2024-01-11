@@ -94,8 +94,9 @@ there are 3 directories
 ## Screenshots or Demo
 
  
+![Screenshot (50)](https://github.com/YooAshu/opensource_guide/assets/95643200/e09c41cc-0a08-45cf-a09c-bf734d744adc)
 
-![Screenshot (50)](https://github.com/YooAshu/opensource_guide/assets/95643200/e4c21b0a-ea42-4e4c-80f7-43c935cf8d56)
+
 
 
 
