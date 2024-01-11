@@ -1,0 +1,32 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+.carouselText{
+    font-size: xx-large;
+    font-family: Climate Crisis;
+    color: white;
+}
+
+.tagText{
+    font-size: larger;
+    font-family: Montserrat;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .carouselText{
+        font-size: x-large;
+    }
+    .tagText{
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 428px) {
+    .carouselText{
+        font-size: small;
+    }
+    .tagText{
+        display: none;
+    }
+}
