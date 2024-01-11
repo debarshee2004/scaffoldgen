@@ -1,4 +1,4 @@
-# Project Template - [YooAshu Tetris]
+# Project Template - [YooAshu Truth Table Genertaor]
 
 ## Table of Contents
 
@@ -15,9 +15,9 @@
 ## Overview
 
 - **Username**: YooAshu
-- **Project ID**: Tetris
+- **Project ID**: Truth Table Generator
 
-Here is a classic game of TETRIS.👨🏻‍💻 I have made it using HTML,CSS & JS. 
+Here is a website that generate truth table for your logical expression.👨🏻‍💻 I have made it using HTML,CSS & JS. 
 ## Technologies Used
 
 - HTML
@@ -26,10 +26,9 @@ Here is a classic game of TETRIS.👨🏻‍💻 I have made it using HTML,CSS &
 
 ## Features
 
-- tetris game
+- truth table generator
 - good UI
-- with SOUND
-- SCORE
+- take AND , OR , XOR , NOT
 
 
 ## Installation and Usage
@@ -38,12 +37,12 @@ Here is a classic game of TETRIS.👨🏻‍💻 I have made it using HTML,CSS &
 
  - **Step 1:-**   Clone the Repo by going to your local Git Client in a particular local folder in your local machine by using this command with your forked repository link in place of below given link: <br/>
     ```bash
-    git clone https://github.com/YooAshu/tetris
+    git clone https://github.com/YooAshu/truth_table_generator
     ```
 
  - **Step 2:-**  Go inside  Directory.
     ```bash 
-    cd tetris
+    cd truth_table_generator
     ```
 
 - **Step 3:-**  Install packages dependencies, run following command in terminal / CMD
@@ -90,7 +89,7 @@ there are 3 directories
 - index.html
 - index.js
 - styles.css
-- and game images and sounds
+- and some pngs
 
 ## Screenshots or Demo
 
