@@ -1,3 +1,0 @@
-[submodule "submodule-name"]
-    path = path/to/submodule
-    url = https://github.com/username/repo.git

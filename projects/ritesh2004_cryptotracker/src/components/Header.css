@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Montserrat:wght@300;400;800&family=Noto+Sans+JP&family=Palette+Mosaic&family=Raleway:wght@200&family=Roboto:wght@500&family=Saira+Condensed:wght@100&family=Ysabeau+Office:wght@300&display=swap');
-
-.title{
-    flex: 1;
-    font-family: Montserrat;
-    font-weight: bold;
-    color: gold;
-    cursor: pointer;
-}
