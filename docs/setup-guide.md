@@ -11,9 +11,13 @@ cd scaffoldgen
 
 ---
 
+## CLI Tool
+
+---
+
 ## Web Application
 
-Prerequisites for this project is having node installed and pnpm installed. If not you can install nodejs via [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) and pnpm by thier [official documnetation](https://pnpm.io/installation).
+Prerequisites for this project is having node installed and a package manager like yarn or pnpm installed. If not you can install nodejs via [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm), yarn form thier [official documentation](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) and pnpm by thier [official documnetation](https://pnpm.io/installation).
 
 **Step 01**: Lets first move into the `web-app` directory, and install the packages required for the project.
 
@@ -22,14 +26,23 @@ cd web-app
 pnpm install
 ```
 
-**Step 02**: Running the application in development server.
+OR
+
+```bash
+cd web-app
+yarn install
+```
+
+**Step 02**: Running the application in development server on `PORT:3000`.
 
 ```bash
 npm run dev
 ```
 
----
+OR
 
-## CLI Tool
+```bash
+yarn dev
+```
 
 ---
