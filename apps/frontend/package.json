@@ -1,7 +1,10 @@
 {
-  "name": "web-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "frontend",
+  "version": "0.0.1",
+  "description": "Frontend for the Webapp for code snippet management",
+  "author": "https://github.com/debarshee2004",
+  "private": false,
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
