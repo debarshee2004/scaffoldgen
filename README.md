@@ -1,13 +1,37 @@
-# ScaffoldGen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6a0c2eb-7307-4fc5-8e1c-7068a15c1147" alt="Description of Image">
+</p>
 
-An interactive CLI tool designed for developers to quickly scaffold (generate and add boilerplate code) directly to files using terminal prompts. It also includes a Code Snippet Management tool with Contextual Search, making it easy to organize and retrieve your code snippets.
+**An Open Sourced CLI tool designed for developers to quickly scaffold (generate and add boilerplate code) directly to files or a directories using terminal prompts. It also includes a Code Snippet Management tool with Contextual Search, making it easy to organize and retrieve your code snippets.**
+
+---
+<div align="center">
+<p>
+   
+![Visitors](https://api.visitorbadge.io/api/visitors?path=debarshee2004/scaffoldgen&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/debarshee2004/scaffoldgen?style=flat&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/debarshee2004/scaffoldgen?style=flat&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/debarshee2004/scaffoldgen)
+![GitHub repo size](https://img.shields.io/github/repo-size/debarshee2004/scaffoldgen)
+![Github](https://img.shields.io/github/license/debarshee2004/scaffoldgen)
+</br>
+![GitHub last commit](https://img.shields.io/github/last-commit/debarshee2004/scaffoldgen)
+![GitHub issues](https://img.shields.io/github/issues/debarshee2004/scaffoldgen)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/debarshee2004/scaffoldgen)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/debarshee2004/scaffoldgen)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/debarshee2004/scaffoldgen)
+
+</p>
+</div>
+
+---
 
 ### How to use this tool?
 
 Let's start with an empty repository with no file. In this demo we will write a command to write **MongoDB database connection in JavaScript using Mongoose** (_which is a predefined example in the library_).
 
 ```
-~ scaffoldgen --scaf mongoose/mongodb-connect --path connection.js
+~ scaffoldgen -scaf mongoose/mongodb-connect -path connection.js
 Or in short
 ~ sfgen --s mongoose/mongodb-connect --p connection.js
 ```
@@ -17,13 +41,13 @@ it will generate the code in the `connection.js` file in the current working dir
 **Basic syntax which is followed while scaffolding code into a file:**
 
 ```
-~ scaffoldgen --scaf {name_of_the_snippet} --path {file_name}
+~ scaffoldgen -scaf {name_of_the_snippet} -path {file_name}
 ```
 
-**Basic syntax which is followed while scaffolding code into a folder:**
+**Basic syntax which is followed while scaffolding code into a directory (by adding the `-dir` flag):**
 
 ```
-~ scaffoldgen -f --scaf {name_of_the_snippet} --path {folder_name}
+~ scaffoldgen -dir -scaf {name_of_the_snippet} -path {folder_name}
 ```
 
 ### Why even use a tool like this?
